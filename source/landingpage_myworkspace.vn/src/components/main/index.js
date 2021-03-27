@@ -599,7 +599,7 @@ const Main = () => (
 
     <div class="section-header">
       <h3>Liên lạc</h3>
-      <p>Hãy để lại thông tin. Chúng tôi sẽ liên lạc lại ngay!</p>
+      <p>Rất hân hạnh nhận email hoặc cuộc gọi của bạn!</p>
     </div>
 
     <div class="row contact-info">
@@ -630,7 +630,7 @@ const Main = () => (
 
     </div>
 
-    <div class="form">
+    {/* <div class="form">
       <div id="sendmessage">Thông tin đã được gởi. Cám ơn!</div>
       <div id="errormessage" />
       <form action="" method="post" role="form" class="contactForm">
@@ -654,7 +654,7 @@ const Main = () => (
         </div>
         <div class="text-center"><button type="submit">Gởi</button></div>
       </form>
-    </div>
+    </div> */}
 
   </div>
 </section>{/* <!-- #contact --> */}

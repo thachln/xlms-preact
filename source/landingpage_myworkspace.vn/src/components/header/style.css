@@ -51,7 +51,11 @@
     padding: 0;
     margin: 0;
 }
-
+.english{
+    position: relative;
+    right: 500px;
+    
+}
 @media (max-width: 768px) {
     #header #logo h1 {
         font-size: 28px;
